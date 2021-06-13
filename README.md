@@ -1,2 +1,2 @@
 # ShoppingList
-# Simple React Application
+Simple React Application
