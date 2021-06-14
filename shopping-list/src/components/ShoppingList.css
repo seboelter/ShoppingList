@@ -1,0 +1,17 @@
+.shopping-list {
+    padding: 1rem;
+    background-color: grey;
+    margin: 2rem auto;
+    width: 50rem;
+    max-width: 95%;
+    border-radius: 10px;
+  }
+
+  .shopping-list__header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0.5rem;
+    margin: 1rem 0;
+    color:black;
+  }
